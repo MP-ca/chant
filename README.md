@@ -10,4 +10,6 @@ I reccomend using [GCC](https://gcc.gnu.org/) for compiling. You can paste `gcc 
 Once chant has been compiled, the executable can be run with `./chant`.<br/><br/>
 **Do note:**
 1. Chant will not accept alphabetical characters or strings
-2. Depending on the maximum length of integers your device supports, chant may not accept some lengthy numbers
+2. Chant may not accept some lengthy integers, due to limitations with the code
+3. Chant can be compiled on Windows, however there's no garuntee it'll function as intended
+
